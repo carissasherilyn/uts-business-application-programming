@@ -131,7 +131,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(229, 23);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Restoran Sushi Sherilyn";
+            this.label3.Text = "Momo Cafe and Restaurant";
             // 
             // panel3
             // 
